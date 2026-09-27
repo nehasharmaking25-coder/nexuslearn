@@ -1,18 +1,21 @@
-# NexusLearn ⚡
+# NexusLearn — Gamified Study Hub
 
-A highly dynamic, gamified study hub and productivity dashboard for students and learners.
+A highly interactive, modern, and immersive study dashboard for students and learners.
 
-## Features
-- **Dynamic Dashboard** — Study streak with glowing fire icon, animated stats, and interactive subject grid
-- **Focus Room** — Animated Pomodoro timer with frosted glass ring and morphing play/pause controls
-- **Flashcard Arena** — 3D flip flashcards for active recall
-- **Gamified Leaderboard** — Scrolling top learners with hover highlights and rank badges
+## ✨ Features
+- **Dynamic Dashboard** — Study streak with glowing fire icon, animated stat counters, and interactive subject cards with 3D tilt.
+- **Focus Room (Pomodoro)** — Animated circular timer with morphing play/pause controls and mode tabs.
+- **Flashcard Arena** — 3D flip flashcards to reveal answers.
+- **Gamified Leaderboard** — Ranked learners with animated badges and hover highlights.
 
-## Tech
-- Vanilla HTML / CSS / JavaScript
-- Glassmorphism + neon gradients
-- Intersection Observer for scroll-triggered animations
-- 3D tilt & flip effects
+## 🎨 Design
+- Deep dark mode with neon purple, electric blue, and cyber pink accents.
+- Heavy glassmorphism with frosted glass effects and glowing shadows.
+- Staggered fade-in animations, count-up numbers, and scroll-triggered progress bars.
 
-## Run Locally
-Just open `index.html` in your browser — no build step needed.
+## 🛠 Tech
+- Vanilla HTML, CSS, and JavaScript (no build step required).
+- Google Fonts: Inter & Outfit.
+
+## 🚀 Run Locally
+Just open `index.html` in your browser, or serve with any static server.
